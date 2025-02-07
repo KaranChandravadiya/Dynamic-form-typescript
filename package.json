@@ -7,7 +7,6 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "homepage": "https://dynamic-form-typescript.netlify.app"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
